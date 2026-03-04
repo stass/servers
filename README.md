@@ -656,6 +656,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[BioMCP](https://github.com/genomoncology/biomcp)** (by imaurer) - Biomedical research assistant server providing access to PubMed, ClinicalTrials.gov, and MyVariant.info.
 - **[bioRxiv](https://github.com/JackKuo666/bioRxiv-MCP-Server)** - 🔍 Enable AI assistants to search and access bioRxiv papers through a simple MCP interface.
 - **[Bitable MCP](https://github.com/lloydzhou/bitable-mcp)** (by lloydzhou) - MCP server provides access to Lark Bitable through the Model Context Protocol. It allows users to interact with Bitable tables using predefined tools.
+- **[BLE MCP Server](https://github.com/stass/blew)** - Scan, connect and communicate with Bluetooth Low Energy (BLE) devices, including reading/writing GATT characteristics, subscribing to notifications and cloning/simulating BLE peripherals.
 - **[Blender](https://github.com/ahujasid/blender-mcp)** (by ahujasid) - Blender integration allowing prompt enabled 3D scene creation, modeling and manipulation.
 - **[Blender MCP](https://github.com/pranav-deshmukh/blender-mcp)** - MCP server to create professional like 3d scenes on blender using natural language.
 - **[Blockbench MCP Plugin](https://github.com/jasonjgardner/blockbench-mcp-plugin)** (by jasonjgardner) - Blockbench plugin to connect AI agents to Blockbench's JavaScript API. Allows for creating and editing 3D models or pixel art textures with AI in Blockbench.
